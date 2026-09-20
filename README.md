@@ -7,7 +7,7 @@ GraphQL API с информацией о профиле
 
 перейти на [https://profile-cv-corw.onrender.com/graphql](https://profile-cv-corw.onrender.com/graphql)
 
-запустить 
+выполнить запрос:  
 
 ```
 query {
