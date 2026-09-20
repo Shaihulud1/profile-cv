@@ -5,7 +5,7 @@ GraphQL API с информацией о профиле
 
 ## Проверка:
 
-перейти на [%url_name%/graphql](https://profile-cv-corw.onrender.com/graphql)
+перейти на [https://profile-cv-corw.onrender.com/graphql](https://profile-cv-corw.onrender.com/graphql)
 
 запустить 
 
