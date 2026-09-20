@@ -3,9 +3,9 @@
 GraphQL API с информацией о профиле
 
 
-## Использование
+## Проверка:
 
-перейти на %url_name%/graphql
+перейти на [%url_name%/graphql](https://profile-cv-corw.onrender.com/graphql)
 
 запустить 
 
@@ -30,7 +30,6 @@ query {
     projects {
       id
       name
-      url
     }
   }
 }
